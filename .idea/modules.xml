@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dbtesting.iml" filepath="$PROJECT_DIR$/.idea/modules/dbtesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dbtesting_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dbtesting_main.iml" group="dbtesting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dbtesting_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dbtesting_test.iml" group="dbtesting" />
+    </modules>
+  </component>
+</project>
